@@ -149,7 +149,7 @@
                 "-Dnautilus=false",
                 "-Dthumbnailer=false",
                 "-Dgtk_doc=false",
-                "-Dintrospection=false"
+                "-Dintrospection=auto"
             ],
             "sources": [
                 {
