@@ -148,7 +148,7 @@
             "config-opts": [
                 "-Dnautilus=false",
                 "-Dthumbnailer=false",
-                "-Dgtk_doc=false",
+                "-Ddocumentation=false",
                 "-Dintrospection=disabled"
             ],
             "sources": [
