@@ -15,6 +15,9 @@
         "--socket=wayland",
         "--socket=pulseaudio",
         "--talk-name=org.gtk.vfs.*",
+        "--filesystem=home:ro",
+        "--filesystem=/media:ro",
+        "--filesystem=/run/media:ro",
         "--filesystem=xdg-run/gvfsd"
     ],
     "build-options": {
