@@ -74,8 +74,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-24.07.0.tar.xz",
-                    "sha256": "19eb4f49198e4ae3fd9e5a6cf24d0fc7e674e8802046a7de14baab1e40cc2f1d",
+                    "url": "https://poppler.freedesktop.org/poppler-25.01.0.tar.xz",
+                    "sha256": "7eefc122207bbbd72a303c5e0743f4941e8ae861e24dcf0501e18ce1d1414112",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3686,
@@ -157,8 +157,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/papers/47/papers-47.0.tar.xz",
-                    "sha256": "cf69eb0a3717fe354011616e2f602383814ff57b7a9eacf306c676e64d8f6666",
+                    "url": "https://download.gnome.org/sources/papers/47/papers-47.3.tar.xz",
+                    "sha256": "3e585393e81e7fa0f9af9e54dfc86f6126b5c3d852ea90dfdc3ba6b07952c4aa",
                     "x-checker-data": {
                         "is-important": true,
                         "type": "gnome",
