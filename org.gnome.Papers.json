@@ -74,8 +74,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-25.01.0.tar.xz",
-                    "sha256": "7eefc122207bbbd72a303c5e0743f4941e8ae861e24dcf0501e18ce1d1414112",
+                    "url": "https://poppler.freedesktop.org/poppler-24.07.0.tar.xz",
+                    "sha256": "19eb4f49198e4ae3fd9e5a6cf24d0fc7e674e8802046a7de14baab1e40cc2f1d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3686,
