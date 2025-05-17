@@ -46,7 +46,12 @@
             "config-opts": [
                 "-Dothers=enabled",
                 "-Dgtk_doc=false",
-                "-Dman=false"
+                "-Dman=false",
+                "-Dinstalled_tests=false"
+            ],
+            "cleanup": [
+                "/share/thumbnailers",
+                "/bin"
             ],
             "sources": [
                 {
