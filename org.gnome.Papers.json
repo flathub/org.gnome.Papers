@@ -34,6 +34,7 @@
         "/man",
         "/share/man",
         "/share/gtk-doc",
+        "/share/gir-1.0",
         "/share/vala",
         "*.la",
         "*.a"
@@ -45,7 +46,12 @@
             "config-opts": [
                 "-Dothers=enabled",
                 "-Dgtk_doc=false",
-                "-Dman=false"
+                "-Dman=false",
+                "-Dinstalled_tests=false"
+            ],
+            "cleanup": [
+                "/share/thumbnailers",
+                "/bin"
             ],
             "sources": [
                 {
