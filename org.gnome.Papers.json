@@ -203,6 +203,9 @@
                         "cp cargo/config .cargo/"
                     ]
                 }
+            ],
+            "post-install": [
+                "for help_locale_dir in /app/share/help/??*; do mv $help_locale_dir /app/share/locale/${help_locale_dir##*/}/help; ln -s /app/share/locale/${help_locale_dir##*/}/help $help_locale_dir; done"
             ]
         }
     ]
