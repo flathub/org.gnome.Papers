@@ -56,8 +56,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gdk-pixbuf/2.42/gdk-pixbuf-2.42.12.tar.xz",
-                    "sha256": "b9505b3445b9a7e48ced34760c3bcb73e966df3ac94c95a148cb669ab748e3c7",
+                    "url": "https://download.gnome.org/sources/gdk-pixbuf/2.43/gdk-pixbuf-2.43.3.tar.xz",
+                    "sha256": "ed4c5d16346a5b4e95326731de9700fad70d03bbd2f9324732e6c94f42d869d7",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gdk-pixbuf",
@@ -104,8 +104,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-25.06.0.tar.xz",
-                    "sha256": "8199532d38984fab46dbd0020ec9c40f20e928e33e9b4cc6043572603a821d83",
+                    "url": "https://poppler.freedesktop.org/poppler-25.07.0.tar.xz",
+                    "sha256": "c504a9066dbdfebe377ad53cec641fd971ee96c4e1e8ca74e6c9c03d46d817ae",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3686,
@@ -187,8 +187,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/papers/48/papers-48.4.tar.xz",
-                    "sha256": "f11aa1c544ac211259e230b40c804ae64077339a57bdefa3dbbeb57f9166e3fd",
+                    "url": "https://download.gnome.org/sources/papers/48/papers-48.5.tar.xz",
+                    "sha256": "0cc8d72c71d3d8aab1be10ae1941a4cd92cd1e2a7e830ab7680e2c82dfb19c0b",
                     "x-checker-data": {
                         "is-important": true,
                         "type": "gnome",
