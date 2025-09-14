@@ -168,6 +168,10 @@
                 },
                 "generated-sources.json",
                 {
+                    "type": "patch",
+                    "path": "0001-tiff-Use-valid-rdns-id.patch"
+                },
+                {
                     "type": "shell",
                     "commands": [
                         "mkdir .cargo",
