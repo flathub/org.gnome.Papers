@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-25.09.1.tar.xz",
-                    "sha256": "0c1091d01d3dd1664a13816861e812d02b29201e96665454b81b52d261fad658",
+                    "url": "https://poppler.freedesktop.org/poppler-25.10.0.tar.xz",
+                    "sha256": "6b5e9bb64dabb15787a14db1675291c7afaf9387438cc93a4fb7f6aec4ee6fe0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3686,
@@ -158,8 +158,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/papers/49/papers-49.0.tar.xz",
-                    "sha256": "7a2b4dc405dc1cffdb865e2d9433cb5b74a94c6d141ae51f4146be21a7749a9a",
+                    "url": "https://download.gnome.org/sources/papers/49/papers-49.1.tar.xz",
+                    "sha256": "4ab23a67897bddd6be2d6298210fff602cfec0f35688bc5bff270360b0784c29",
                     "x-checker-data": {
                         "is-important": true,
                         "type": "gnome",
@@ -167,10 +167,6 @@
                     }
                 },
                 "generated-sources.json",
-                {
-                    "type": "patch",
-                    "path": "0001-tiff-Use-valid-rdns-id.patch"
-                },
                 {
                     "type": "shell",
                     "commands": [
