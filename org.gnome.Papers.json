@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://poppler.freedesktop.org/poppler-25.12.0.tar.xz",
-                    "sha256": "c18b40eb36b1a0c5b86e29ca054bf0770304583da4f2cdd42fe86eca6a20de48",
+                    "url": "https://poppler.freedesktop.org/poppler-26.01.0.tar.xz",
+                    "sha256": "1cb944a4b88847f5fb6551683bc799db59f04990f5d8be07aba2acbf38601089",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 3686,
@@ -142,7 +142,11 @@
                 {
                     "type": "archive",
                     "url": "https://download.gnome.org/sources/libgxps/0.3/libgxps-0.3.2.tar.xz",
-                    "sha256": "6d27867256a35ccf9b69253eb2a88a32baca3b97d5f4ef7f82e3667fa435251c"
+                    "sha256": "6d27867256a35ccf9b69253eb2a88a32baca3b97d5f4ef7f82e3667fa435251c",
+                    "x-checker-data": {
+                        "type": "gnome",
+                        "name": "libgxps"
+                    }
                 }
             ]
         },
