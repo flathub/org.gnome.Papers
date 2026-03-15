@@ -18,7 +18,8 @@
         "--filesystem=home:ro",
         "--filesystem=/media:ro",
         "--filesystem=/run/media:ro",
-        "--filesystem=xdg-run/gvfsd"
+        "--filesystem=xdg-run/gvfsd",
+        "--filesystem=xdg-run/gvfs"
     ],
     "build-options": {
         "append-path": "/usr/lib/sdk/rust-stable/bin",
