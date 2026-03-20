@@ -30,13 +30,8 @@
     "cleanup": [
         "/include",
         "/lib/pkgconfig",
-        "/share/pkgconfig",
-        "/share/aclocal",
-        "/man",
         "/share/man",
-        "/share/gtk-doc",
-        "/share/gir-1.0",
-        "/share/vala",
+        "/share/pkgconfig",
         "*.la",
         "*.a"
     ],
