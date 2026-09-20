@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Papers",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "50",
+    "runtime-version": "51",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -141,8 +141,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/papers/50/papers-50.3.tar.xz",
-                    "sha256": "3ed2b22d4894351f02441e8688a0603b651226bfd510129f952780035e3ad24a",
+                    "url": "https://download.gnome.org/sources/papers/51/papers-51.0.tar.xz",
+                    "sha256": "4b8caf527d85f7eabc63ebe9d2320e0490653c2e138b88fbf42e6f41dd3e451c",
                     "x-checker-data": {
                         "is-important": true,
                         "type": "gnome",
